@@ -30,6 +30,7 @@ define('DS', DIRECTORY_SEPARATOR);
 define('ROOT', dirname(__FILE__));
 define('WEBROOT_DIR', 'webroot');
 define('WWW_ROOT', ROOT . DS . APP_DIR . DS . WEBROOT_DIR . DS);
+define('WEBROOT_DIR1', 'webroot1');
 
 /**
  * This only needs to be changed if the "cake" directory is located
